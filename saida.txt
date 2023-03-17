@@ -1,5 +1,23 @@
+commit 54d2415dac6c94b656fa747e8c7923f461a4b005
+Author: Silvana Goncalves <silvana21@gmail.com>
+Date:   Fri Mar 17 14:39:54 2023 -0500
+
+    segundo commit
+
+ .vs/ProjectSettings.json  |   3 +++
+ .vs/VSWorkspaceState.json |   6 ++++++
+ .vs/slnx.sqlite           | Bin 0 -> 90112 bytes
+ .vs/webacademy/v16/.suo   | Bin 0 -> 15360 bytes
+ bluestyle.css             |   9 +++++++++
+ index.html                |  13 +++++++++++++
+ saida.txt                 |   5 +++++
+ 7 files changed, 36 insertions(+)
+
 commit 0dfe1b55183849d2e16e9f29227654a19de719c6
 Author: Silvana Goncalves <silvana21@gmail.com>
 Date:   Fri Mar 17 13:47:17 2023 -0500
 
     primeiro commit
+
+ Readme.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
